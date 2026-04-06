@@ -1,2 +1,2 @@
 # Optimal-savings-and-portfolio-choice
-Python file for FIE463 coursework
+Python file for the Optimal savings and portfolio choice
